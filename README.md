@@ -1,1 +1,1 @@
-# -eacvi-echo-study
+# eacvi-echo-study
